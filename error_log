@@ -1,7 +1,0 @@
-[24-Mar-2021 12:09:08 America/New_York] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/mchajcby/admin.sabiride.app/application/config/config.php on line 6
-[24-Mar-2021 12:09:08 America/New_York] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
-[24-Mar-2021 12:09:08 America/New_York] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/mchajcby/admin.sabiride.app/application/config/config.php on line 6
-[24-Mar-2021 12:09:08 America/New_York] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
-[24-Mar-2021 12:09:09 America/New_York] PHP Parse error:  syntax error, unexpected '';' (T_CONSTANT_ENCAPSED_STRING) in /home/mchajcby/admin.sabiride.app/application/config/config.php on line 6
-[24-Mar-2021 12:09:09 America/New_York] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
-[01-Sep-2021 23:37:04 America/New_York] PHP Fatal error:  Assignments can only happen to writable values in /home/mchajcby/admin.sabiride.app/application/controllers/Plan.php on line 123
